@@ -1,3 +1,5 @@
+BETTING STRATEGIES
+
 These betting strategies exploit mispriced odds by and between bookmakers on various sports games.
 
 -----------------------------
